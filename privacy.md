@@ -84,7 +84,7 @@
 
 資料於提供服務所需期間內保留；帳號刪除後，我們將於合理時間內刪除或匿名化資料。
 
-**聯絡：** [support.packster@gmail.com](mailto:support.packster@gmail.com)
+**聯絡：** [support@packsterbuy.com](mailto:support@packsterbuy.com)
 
 ---
 
@@ -162,7 +162,7 @@ You may update personal data in the App, or contact us to access, correct, or de
 
 Data is kept for as long as needed to provide the service; after account deletion, we delete or anonymize data within a reasonable time.
 
-**Contact:** [support.packster@gmail.com](mailto:support.packster@gmail.com)
+**Contact:** [support@packsterbuy.com](mailto:support@packsterbuy.com)
 
 ---
 
