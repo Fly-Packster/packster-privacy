@@ -46,7 +46,7 @@
 
 ### 9. 年齡
 
-你須年滿 18 歲，或在監護人同意及監督下使用本平台。
+你須年滿 12 歲，或在監護人同意及監督下使用本平台。
 
 ### 10. 條款變更
 
@@ -124,7 +124,7 @@ Disputes between users should be resolved by negotiation or appropriate legal ch
 
 ### 9. Age
 
-You must be at least 18 years old, or use the Platform with a guardian’s consent and supervision.
+You must be at least 12 years old, or use the Platform with a guardian’s consent and supervision.
 
 ### 10. Changes to Terms
 
