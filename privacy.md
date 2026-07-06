@@ -1,6 +1,6 @@
 # Packster — 用戶協議、私隱政策（繁中 / English）
 
-**版本 Version：2026-05-24**
+**版本 Version：2026-07-06**
 
 **目錄 Contents：** [繁體中文](#繁體中文) · [English](#english)
 
